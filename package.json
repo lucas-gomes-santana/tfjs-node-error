@@ -1,0 +1,18 @@
+{
+  "name": "tfjs_node_error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.22.0"
+  },
+  "allowScripts": {
+    "core-js@3.29.1": true,
+    "@tensorflow/tfjs-node@4.22.0": true
+  }
+}
