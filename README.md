@@ -1,4 +1,4 @@
-# TFJS Node Error (#8746 Issue)
+# TFJS Node Error
 
 A minimal reproduction of a `@tensorflow/tfjs-node` dependency failure that depends on the
 installed **Node.js version**. The same script runs successfully on Node 20 but
